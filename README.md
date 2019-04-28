@@ -1,6 +1,6 @@
 # Image-Compression-and-Video-Coding
 
-Recent works on image compression and video coding (especially deep-based)
+Recent works on image compression, general video coding (especially deep-based), screen content coding, texture compression.
 
 #### Image Compression
  
