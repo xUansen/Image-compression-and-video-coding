@@ -2,7 +2,7 @@
 
 Recent works on image compression, general video coding (especially deep-based), screen content coding, texture compression.
 
-#### Image Compression
+## Image Compression
  
  * Compressive Autoencoders [[Web]](https://arxiv.org/abs/1703.00395) [[PDF]](https://arxiv.org/pdf/1703.00395.pdf)
    * Lossy Image Compression with Compressive Autoencoders (ICLR 2017), Lucas Theis, Wenzhe Shi, Andrew Cunningham, Ferenc Huszár.
@@ -64,12 +64,12 @@ Recent works on image compression, general video coding (especially deep-based),
  * Codes + CNN [[PDF]](http://ieeexplore.ieee.org/document/7999241/)
    * An End-to-End Compression Framework Based on Convolutional Neural Networks (TCSVT 2017), Feng Jiang, Wen Tao, Shaohui Liu, Jie Ren, Xun Guo, Debin Zhao. 
 
-# General Video Compression
+## General Video Compression
  * Texture Segmentation Based Video Compression Using Convolutional Neural Networks (IS&T Electronic Imaging 2018)[[PDF]](https://arxiv.org/pdf/1802.02992.pdf), Chichen Fu, Di Chen, Edward J. Delp, Zoe Liu, Fengqing Zhu
 
 
-# Screen Content Coding
+## Screen Content Coding
 *  Intra Block Copy for Screen Content in the Emerging AV1 Video Codec [[PDF]](https://ieeexplore.ieee.org/document/8416608
 ), Jiahao Li ; Hui Su ; Alex Converse ; Bin Li ; Roger Zhou ; Bruce Lin ; Jizheng Xu ; Yan Lu ; Ruiqin Xiong,   
 
-# Texture Compression
+## Texture Compression
